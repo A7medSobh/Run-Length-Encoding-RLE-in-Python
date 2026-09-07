@@ -1,21 +1,19 @@
-# Algorithms in Python 🐍
+Algorithms in Python 🐍
 
-A collection of simple algorithms, programs, and problem-solving exercises written in **Python**.
+A collection of Python algorithms, programs, and problem-solving exercises that I have created while learning and practicing Python.
 
-This repository is mainly for practicing Python, learning new programming concepts, and keeping useful examples for future reference.
+This repository is a place to keep my work, practice programming, and build a useful reference for the future.
 
-## 📂 Current Projects
+Projects
+Dups-Detection — Detects duplicate values
+Number-Guessing Game — A simple number guessing game
+RLE — Run-Length Encoding and Decoding
+simpleTimer Function — A simple timer function
+Vowels — Counts the number of vowels in a string
+Goal
 
-* **Dups-Detection** — Detecting duplicate values
-* **Number-Guessing Game** — A simple number guessing game
-* **RLE** — Run-Length Encoding and Decoding
-* **simpleTimer Function** — A simple timer function
-* **Vowels** — Counting vowels in a string
+The goal of this repository is to continuously practice Python, improve my problem-solving skills, and learn more algorithms and programming concepts.
 
-## 🎯 Goal
+More projects will be added as I continue learning.
 
-The goal of this repository is to continuously practice Python and improve my understanding of algorithms and problem solving.
-
-More projects and algorithms will be added as I continue learning.
-
-**Language:** Python 🐍
+Language: Python 🐍
