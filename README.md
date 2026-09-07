@@ -1,4 +1,4 @@
-Algorithms in Python 🐍
+#Algorithms in Python 🐍
 
 A collection of Python algorithms, programs, and problem-solving exercises that I have created while learning and practicing Python.
 
